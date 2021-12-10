@@ -1,20 +1,15 @@
 ## Tools For Analytics Final Project
-=====================================
 This project is intended to practice basic data analytics using the 311 calls dataset in 2020 published by NYC. 
 
 # Group name & section
-=======================
 Group 32 
 Section 002
 
 # Group Member
-===============
 Motong Yu (my2687)
 Jiaxin Li (jl5747)
 
 # Description
-=============
-
 There are three files included in this repository:
 
 README.md file contains info about the group as well as generally descirbes what we have done for the whole project.
